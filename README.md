@@ -5,10 +5,10 @@
 
 <p align="center">
   <a href="https://github.com/Oakamoore/blob/blob/main/LICENSE">
-  <img src="https://img.shields.io/badge/License-MIT-green"/>
+	 <img src="https://img.shields.io/badge/License-MIT-green"/>
   </a>
   <a href="https://unity.com/releases/editor/whats-new/2022.1.15#installs">
-  <img src="https://img.shields.io/badge/Unity-2022.1.15f1-57b9d3.svg?style=flat&logo=unity&color=orange"/>
+	<img src="https://img.shields.io/badge/Unity-2022.1.15f1-57b9d3.svg?style=flat&logo=unity&color=orange"/>
   </a>
 </p>
 
@@ -32,7 +32,7 @@ There's also a single player game mode, that serves as an introduction to the ga
 
 <div align="center">
 
-|![](Demo/multiplayer-game.gif)<font size="-1"><br>Multiplayer Game</font>|![](Demo/singleplayer-game.gif)<font size="-1"><br>Singleplayer Game</font>|
+|![](Demo/multiplayer-game.gif)<font size="-1"><br>Multiplayer Game Mode</font>|![](Demo/singleplayer-game.gif)<font size="-1"><br>Singleplayer Game Mode</font>|
 |:-:|:-:|
 
 </div>
@@ -65,21 +65,16 @@ Once the project is downloaded and open in Unity, navigate to `Assets/Scenes/Mai
 
 This project is also available over on [itch.io](https://itch.io/), as a downloadable executable:
 
-<a href="https://oakamoore.itch.io/blob">
-  <img src="Demo/blob-itch.png" width="400px"/>
-  </a>
+<div align="center">
+	<a href="https://oakamoore.itch.io/blob">
+		 <img src="Demo/blob-itch.png" width="400px"/>
+	</a>
+</div>
 
 ## References
 
 > The following is a list of links to the assets used in this project.
 
-#### Models
+**Models** - [Slime](https://sketchfab.com/3d-models/slime-creature-f176c00e63c24155b2c308b06cdb32d8) (Modified within [Blender](https://www.blender.org/)), [Main Menu Lettering](https://sketchfab.com/3d-models/bubble-letters-ef49e3ea68f04223b173d86991c77d1c), [Stylised Stones](https://sketchfab.com/3d-models/stylized-stones-minipack-719d8ee393db4b218ace19ce9124918d)
 
-- [Slime](https://sketchfab.com/3d-models/slime-creature-f176c00e63c24155b2c308b06cdb32d8) (Modified within [Blender](https://www.blender.org/))
-- [Main Menu Lettering](https://sketchfab.com/3d-models/bubble-letters-ef49e3ea68f04223b173d86991c77d1c)
-- [Stylised Stones](https://sketchfab.com/3d-models/stylized-stones-minipack-719d8ee393db4b218ace19ce9124918d)
-
-#### Sound Effects
-
-- [Shooting](https://freesound.org/people/deoking/sounds/411671/)
-- [Impact](https://freesound.org/people/yottasounds/sounds/232135/)
+**Sound Effects** - [Shooting](https://freesound.org/people/deoking/sounds/411671/), [Impact](https://freesound.org/people/yottasounds/sounds/232135/)
