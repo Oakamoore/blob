@@ -15,46 +15,33 @@
 ## Overview
 **Blob** is a top-down online multiplayer arena shooter, in which players are sentient blobs of slime that shoot slime balls at each other. 
 
-Its online multiplayer was built using [Photon Unity Networking (PUN)](https://www.photonengine.com/pun), which employs a lobby/room based system - allowing players to browse a list of user-created rooms (supporting up to 4 players):
+Its online multiplayer was built using [Photon Unity Networking (PUN)](https://www.photonengine.com/pun), which employs a room based system - allowing players to browse a list of user-created rooms (each supporting up to 4 players).
 
-<div>
-<p align="center">
-  <img src="Demo/room-selection-screenshot.png"/>
-  <div align="center"><font size="-1"><p style="margin-top:-15px">Room Selection Menu</p></font></div>
-</p>
+Each room has its own online chat - built with [Photon Chat](https://www.photonengine.com/chat) - allowing players to converse while waiting for a game to start.
+
+<div align="center">
+
+|![](Demo/room-selection-screenshot.png)<font size="-1"><br>Room Selection Menu</font>|![](Demo/room-chat-screenshot.png)<font size="-1"><br>Room Chat</font>|
+|:-:|:-:|
+
 </div>
 
-Each room has its own online chat - built with [Photon Chat](https://www.photonengine.com/chat) - allowing players to converse while waiting for a game to start:
+When a game is started players compete against each other in an enclosed arena, and whoever has the most kills at the end of a game gets their score placed on an online global leaderboard (created using [PlayFab](https://playfab.com/multiplayer/#stats)).
 
-<div>
-<p align="center">
-  <img src="Demo/room-chat-screenshot.png"/>
-  <div align="center"><font size="-1"><p style="margin-top:-15px">Room Chat</p></font></div>
-</p>
-</div>
+There's also a single player game mode, that serves as an introduction to the game's mechanics.
 
-When a game is started players compete against each other in an enclosed arena, and whoever has the most kills at the end of a game gets their score placed on an online global leaderboard (created using [PlayFab](https://playfab.com/multiplayer/#stats)):
+<div align="center">
 
-<div>
-<p align="center">
-  <img src="Demo/multiplayer-game.gif" width="500px"halt="animated"/>
-  <div align="center"><font size="-1"><p style="margin-top:-15px">Multiplayer Game</p></font></div>
-</p>
-</div>
+|![](Demo/multiplayer-game.gif)<font size="-1"><br>Multiplayer Game</font>|![](Demo/singleplayer-game.gif)<font size="-1"><br>Singleplayer Game</font>|
+|:-:|:-:|
 
-There's also a single player game mode, that serves as an introduction to the game's mechanics:
-
-<div>
-<p align="center">
-  <img src="Demo/singleplayer-game.gif" width="500px"halt="animated"/>
-  <div align="center"><font size="-1"><p style="margin-top:-15px">Singleplayer Game</p></font></div>
-</p>
 </div>
 
 ## Installation
 
 This project was built using [Unity 2022.1.15f1](https://unity.com/releases/editor/whats-new/2022.1.15#installs), and should work as expected on that version. Downgrading or upgrading this project to a different version of Unity may cause issues. 
 
+***
 > Below are the two different ways to download this project, the **first** being the recommended approach.
 
 ### 1. Unity Hub
@@ -73,8 +60,7 @@ This project was built using [Unity 2022.1.15f1](https://unity.com/releases/edit
 - Browse to the location of the downloaded `blob.unitypackage` file, and select it 
   - Click `Import` on the `Import Unity Package` window that should appear in Unity
 
-## Usage 
-
+***
 Once the project is downloaded and open in Unity, navigate to `Assets/Scenes/MainMenu`, open the scene and play (`CTRL + P`).
 
 This project is also available over on [itch.io](https://itch.io/), as a downloadable executable:
