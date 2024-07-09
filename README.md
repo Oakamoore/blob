@@ -48,7 +48,7 @@ This project was built using [Unity 2022.1.15f1](https://unity.com/releases/edit
 
 - Clone this repository with `git clone https://github.com/Oakamoore/blob.git`
 - Open [Unity Hub](https://unity.com/unity-hub)
-	- Click `Add`, browsing to the location of the previously cloned repository
+	- Click *Add*, browsing to the location of the previously cloned repository
 	- Select the cloned repository's base directory
 	- Open the newly added project via Unity Hub
 
@@ -56,9 +56,9 @@ This project was built using [Unity 2022.1.15f1](https://unity.com/releases/edit
 
 - Navigate to the `blob/Packages/blob.unitypackage` file in this repository, and download it
 - Create and open a **new** Unity project
-- In the Unity editor, under the `Assets` tab, find `Import Package`, then select `Custom Package`
-- Browse to the location of the downloaded `blob.unitypackage` file, and select it 
-  - Click `Import` on the `Import Unity Package` window that should appear in Unity
+- In the Unity editor, under the *Assets* tab, find *Import Package*, then select *Custom Package*
+	- Browse to the location of the downloaded `blob.unitypackage` file, and select it 
+	- Click *Import* on the *Import Unity Package* window that should appear in Unity
 
 ***
 Once the project is downloaded and open in Unity, navigate to `Assets/Scenes/MainMenu`, open the scene and play (`CTRL + P`).
