@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="Demo/title.gif" alt="animated" />
+  <img src="https://github.com/Oakamoore/blob/assets/57583938/9ec4262e-a00c-449d-8860-c8b308739e3d" />
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 </p>
 
 ## Overview
-**Blob** is a top-down online multiplayer arena shooter, in which players are sentient blobs of slime that shoot slime balls at each other. 
+**Blob** is a top-down online multiplayer arena shooter, in which players are blobs of slime that shoot slime balls at each other. 
 
 Its online multiplayer was built using [Photon Unity Networking (PUN)](https://www.photonengine.com/pun), which employs a room based system - allowing players to browse a list of user-created rooms (each supporting up to 4 players).
 
@@ -21,7 +21,7 @@ Each room has its own online chat - built with [Photon Chat](https://www.photone
 
 <div align="center">
 
-|![](Demo/room-selection-screenshot.png)<font size="-1"><br>Room Selection Menu</font>|![](Demo/room-chat-screenshot.png)<font size="-1"><br>Room Chat</font>|
+|![](https://github.com/Oakamoore/blob/assets/57583938/d3c49269-e118-4fd5-a376-b66e8a498001)<font size="-1"><br>Room Selection Menu</font>|![](https://github.com/Oakamoore/blob/assets/57583938/2a918b21-90e9-4229-99db-d678f0bcb137)<font size="-1"><br>Room Chat</font>|
 |:-:|:-:|
 
 </div>
@@ -32,7 +32,7 @@ There's also a single player game mode, that serves as an introduction to the ga
 
 <div align="center">
 
-|![](Demo/multiplayer-game.gif)<font size="-1"><br>Multiplayer Game Mode</font>|![](Demo/singleplayer-game.gif)<font size="-1"><br>Singleplayer Game Mode</font>|
+|![](https://github.com/Oakamoore/blob/assets/57583938/c8392a51-d1b8-4aa6-8459-db7a03fce533)<font size="-1"><br>Multiplayer Game Mode</font>|![](https://github.com/Oakamoore/blob/assets/57583938/99fde646-5717-42e9-af0d-2949c21c604e)<font size="-1"><br>Singleplayer Game Mode</font>|
 |:-:|:-:|
 
 </div>
@@ -67,7 +67,7 @@ This project is also available over on [itch.io](https://itch.io/), as a downloa
 
 <div align="center">
 	<a href="https://oakamoore.itch.io/blob">
-		 <img src="Demo/blob-itch.png" width="400px"/>
+		 <img src="https://github.com/Oakamoore/blob/assets/57583938/8f8a2251-d9fa-4aba-822e-92e1c5d75b24" width="400px"/>
 	</a>
 </div>
 
