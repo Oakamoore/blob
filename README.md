@@ -67,7 +67,7 @@ This project is also available over on [itch.io](https://itch.io/), as a downloa
 
 <div align="center">
 	<a href="https://oakamoore.itch.io/blob">
-		 <img src="https://github.com/Oakamoore/blob/assets/57583938/8f8a2251-d9fa-4aba-822e-92e1c5d75b24" width="400px"/>
+		 <img src="https://github.com/user-attachments/assets/fc89694c-2e88-4bb3-aa5b-7d336cb3990a" width="400px"/>
 	</a>
 </div>
 
