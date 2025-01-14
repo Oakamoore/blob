@@ -37,6 +37,8 @@ There's also a single player game mode, that serves as an introduction to the ga
 
 </div>
 
+Click [here](https://www.youtube.com/playlist?list=PLdwIq7AG9mogAUu6oBWHTSHIc0lsWWEL6) to watch a two-part in depth video demonstration.
+
 ## Installation
 
 This project was built using [Unity 2022.1.15f1](https://unity.com/releases/editor/whats-new/2022.1.15#installs), and should work as expected on that version. Downgrading or upgrading this project to a different version of Unity may cause issues. 
