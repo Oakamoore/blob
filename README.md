@@ -65,13 +65,11 @@ This project was built using [Unity 2022.1.15f1](https://unity.com/releases/edit
 ***
 Once the project is downloaded and open in Unity, navigate to `Assets/Scenes/MainMenu`, open the scene and play (`CTRL + P`).
 
-This project is also available over on [itch.io](https://itch.io/), as a downloadable executable:
-
-<div align="center">
+<p align="center">
 	<a href="https://oakamoore.itch.io/blob">
-		 <img src="https://github.com/user-attachments/assets/fc89694c-2e88-4bb3-aa5b-7d336cb3990a" width="400px"/>
+		 <img src="https://github.com/user-attachments/assets/045fd8f3-9f80-42de-9b7e-5a1fa4c0ec02" width="200">
 	</a>
-</div>
+</p>
 
 ## References
 
